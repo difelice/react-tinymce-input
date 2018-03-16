@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/HurricaneJames/react-tinymce-input",
   "dependencies": {
-    "uuid": "^2.0.1",
-    "create-react-class": "^15.6.0",
-    "prop-types": "^15.5.10"
+    "create-react-class": "^15.6.3",
+    "prop-types": "^15.6.1",
+    "uuid": "^2.0.1"
   },
   "devDependencies": {
     "babel": "^5.4.7",
